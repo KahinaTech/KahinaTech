@@ -1,7 +1,7 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Kahina!
-👩🏻‍💻 Software Engineer <br/>
+👩🏻‍💻 Software Developer <br/>
 
 
 
